@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+	int a,b,c,d,g,h;
+    scanf("%d",&a);
+    scanf("%d",&b);
+    c=a+b;
+    d=a-b;
+    g=a*b;
+    h=a/b;
+    printf("add-%d\nsub-%d\nmul-%d\ndiv-%d,c,d,g,h);
+    return 0;
+ }
