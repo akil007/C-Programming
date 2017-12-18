@@ -1,0 +1,11 @@
+# include<stdio.h>
+int main()
+{
+	char c[] ="Sachin Ramesh Tendulkar";
+	char n[]="Little Master";
+	int ro=18426;
+	float bao = 44.83;
+	int om=463;
+	printf("%s\n%s\n%d\n%f\n%d",c,n,ro,bao,om);
+	return 0;
+}
